@@ -1,3 +1,4 @@
+'''
 import sequencesolver
 
 def getList(sequence):
@@ -40,7 +41,7 @@ for line in f:
     else:
         if  isLinear(myList):
             linear.numberList = myList
-            print(linear)
+            print(linear)  
             print(linear.findFormula())
         elif isQuad(myList):
             quad.numberList = myList
@@ -50,3 +51,4 @@ for line in f:
             print('\n[%s] is not a linear/quadratic sequence' % (line.strip()))
 
 f.close()
+'''

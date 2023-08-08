@@ -1,3 +1,4 @@
+'''
 !pip3 install ColabTurtle
 import ColabTurtle.Turtle as turtle
 from turtle import*
@@ -12,3 +13,4 @@ for i in range(72):
     turtle.right(5)
 
 
+'''
