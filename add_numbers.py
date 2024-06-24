@@ -2,4 +2,4 @@
 def my_add(a,b):
     return a+b
 
-print(my_add(2,4))
+print(my_add(5,9))
